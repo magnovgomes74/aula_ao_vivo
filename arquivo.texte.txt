@@ -1,1 +1,4 @@
 Testando a conexão entre o meu código local com o repositório online, na branch main
+
+
+Alterando conteúdo para exercitar
